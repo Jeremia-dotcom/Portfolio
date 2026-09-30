@@ -114,7 +114,7 @@ setTimeout(typeWriter, 80); // Lower = faster (30-100ms recommended)
 1. Push code to GitHub repository
 2. Go to Settings → Pages
 3. Select main branch
-4. Your site will be live at `[Jerere's Portfolio](https://main.d2k1aud08zsf7o.amplifyapp.com/)`
+4. Your site will be live at `[Jerere's Portfolio](https://main.dodxlqs9fa2ml.amplifyapp.com/)`
 
 ### Option 2: AWS Amplify (Free Tier)
 1. Create AWS account
